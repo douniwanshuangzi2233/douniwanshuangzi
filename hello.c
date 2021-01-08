@@ -1,4 +1,5 @@
 #include <stdio.h>
+<<<<<<< HEAD
 int divid(int a,int b);
 int divid(int a,int b)
 {
@@ -11,3 +12,11 @@ int main()
 	return 0;
 } 
 
+=======
+
+int main()
+{
+	printf("Hello world!\n");
+	return 0;
+} 
+>>>>>>> main
